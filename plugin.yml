@@ -1,0 +1,10 @@
+author: xodevil_fire
+name: SilverDailyBonus
+version: 1.0
+main: fr.xodevil_fire.SilverDailyBonus.SDBCore
+website: http://www.silvercraft.fr
+depends: [Vault]
+permissions:
+  silverdailybonus.getbonus:
+    default: op
+    description: Permettre de recevoir un bonus chaque jour de connexion sur le serveur.
