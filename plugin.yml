@@ -1,7 +1,7 @@
 author: xodevil_fire
 name: SilverDailyBonus
-version: 1.0
-main: fr.xodevil_fire.SilverDailyBonus.SDBCore
+version: 1.4
+main: fr.xodevil_fire.SilverDailyBonus.Core
 website: http://www.silvercraft.fr
 depends: [Vault]
 permissions:
